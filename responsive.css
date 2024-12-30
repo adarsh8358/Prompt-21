@@ -1,0 +1,72 @@
+@media (max-width:600px) {
+
+    .items{
+        display: none;
+    }
+
+    .ri-menu-fill{
+        display: block;
+        color: whitesmoke;
+        margin-top: 6%;
+    }
+    .logo img{
+        margin-top: -15%;
+        margin-left: -10%;
+    }
+
+    .sib{
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+
+    .lib{
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+
+    .buttons{
+        margin-top: 5%;
+        margin-left: 25%;
+    }
+
+    .mh{
+        font-size: 28px;
+    }
+
+    .wm{
+        font-size: 11px;
+        margin-top: 5%;
+    }
+
+    .radio{
+        padding: 5px 10px;
+        margin-top: 5%;
+    }
+
+    .s1{
+        font-size: 15px;
+    }
+
+    .s2{
+        font-size: 15px;
+    }
+
+    .boxx{
+        flex-direction: column;
+        margin-top: 5%;
+    }
+
+    .boxxx{
+        margin-top: 120%;
+    }
+
+    .page2{
+        display: block;
+    }
+
+    .page3{
+        display: block;
+    }
+    
+    
+}
